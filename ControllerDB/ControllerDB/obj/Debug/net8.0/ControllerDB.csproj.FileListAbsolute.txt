@@ -1,0 +1,12 @@
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\bin\Debug\net8.0\ControllerDB.deps.json
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\bin\Debug\net8.0\ControllerDB.dll
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\bin\Debug\net8.0\ControllerDB.pdb
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\ControllerDB.csproj.AssemblyReference.cache
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\ControllerDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\ControllerDB.AssemblyInfoInputs.cache
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\ControllerDB.AssemblyInfo.cs
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\ControllerDB.csproj.CoreCompileInputs.cache
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\ControllerDB.dll
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\refint\ControllerDB.dll
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\ControllerDB.pdb
+D:\4 курс\Практика 1\Bibl\ControllerDB\ControllerDB\obj\Debug\net8.0\ref\ControllerDB.dll

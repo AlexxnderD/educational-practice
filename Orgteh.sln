@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orgteh", "Orgteh\Orgteh.csproj", "{0C318952-CD1A-4537-9BAF-A8E1824F9951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "TestProject2\TestProject2.csproj", "{0E461C85-F0AA-4A39-87A7-675592F0EAE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C318952-CD1A-4537-9BAF-A8E1824F9951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C318952-CD1A-4537-9BAF-A8E1824F9951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C318952-CD1A-4537-9BAF-A8E1824F9951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C318952-CD1A-4537-9BAF-A8E1824F9951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E461C85-F0AA-4A39-87A7-675592F0EAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E461C85-F0AA-4A39-87A7-675592F0EAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E461C85-F0AA-4A39-87A7-675592F0EAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E461C85-F0AA-4A39-87A7-675592F0EAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F990DF-CB79-41AA-8AB5-1804B1B7EE68}
+	EndGlobalSection
+EndGlobal
